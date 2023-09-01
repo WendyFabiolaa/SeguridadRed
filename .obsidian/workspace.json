@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "retos-bandit/retos-bandit/Level 0.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a5620110ec964aff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "retos-bandit/retos-bandit/Bandit Level 6 → Level 7.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "retos-bandit/retos-bandit/Bandit Level 6 → Level 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "retos-bandit/retos-bandit/Bandit Level 6 → Level 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "retos-bandit/retos-bandit/Bandit Level 6 → Level 7.md"
               }
             }
           }
@@ -159,11 +171,21 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "c597d2b820f8979b",
+  "active": "f7f42b8fae94e5f6",
   "lastOpenFiles": [
+    "retos-bandit/retos-bandit/Bandit Level 9 → Level 10.md",
+    "retos-bandit/retos-bandit/plantilla.md",
+    "retos-bandit/retos-bandit/Bandit Level 8 → Level 9.md",
+    "retos-bandit/retos-bandit/Bandit Level 7 → Level 8.md",
+    "retos-bandit/retos-bandit/Bandit Level 6 → Level 7.md",
+    "retos-bandit/retos-bandit/Bandit Level 5 → Level 6.md",
+    "retos-bandit/retos-bandit/Bandit Level 4 → Level 5.md",
+    "retos-bandit/retos-bandit/Bandit Level 3 → Level 4.md",
+    "retos-bandit/retos-bandit/Bandit Level 2 → Level 3.md",
+    "retos-bandit/retos-bandit/Bandit Level 1 → Level 2.md",
+    "retos-bandit/retos-bandit/Bandit Level 0 → Level 1.md",
     "retos-bandit/retos-bandit/Level 0.md",
     "README.md",
-    "retos-bandit/retos-bandit/plantilla.md",
     "retos-bandit/retos-bandit",
     "retos-bandit",
     "retos-bandit.zip"

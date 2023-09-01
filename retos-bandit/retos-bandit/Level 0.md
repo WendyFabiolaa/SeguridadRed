@@ -17,6 +17,9 @@ ssh bandit0@bandit.labs.overthewire.org -p 2220
 | Comando | Descripción |
 |------------|--------------|
 |pwd|Se indica en el directorio
+|whoami| Indica que usuario soy|
+
+
 
 
 ## Referencias
