@@ -50,4 +50,6 @@ bandit27@bandit:/tmp/tmp.RH39ki24pd/repo$ cat README
 The password to the next level is: AVanL161y9rsbcJIsFHuw35rjaOM19n
 ```
 ## Notas adicionales
+- git clone sirve para conar repositorios
+- 
 ## Referencias

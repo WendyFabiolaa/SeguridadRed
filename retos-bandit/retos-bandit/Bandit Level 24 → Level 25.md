@@ -34,5 +34,5 @@ Exiting.
 ## Notas adicionales
 - para crear secuencias en linux podria utilizar: for i in {0000..0010};
 - more sirve para mostrar lo que cabe en la pantalla, da otra tecla y aparece lo demas
-- 
+- nc permite acceder a los puertos
 ## Referencias
