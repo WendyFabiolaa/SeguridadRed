@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-bandit/retos-bandit/Bandit Level 27 → Level 28.md",
+                "file": "retos-bandit/retos-bandit/Bandit Level 31 → Level 32.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 216.5
+    "width": 206.5
   },
   "right": {
     "id": "2c79b3fbab9eeace",
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-bandit/retos-bandit/Bandit Level 27 → Level 28.md",
+                "file": "retos-bandit/retos-bandit/Bandit Level 31 → Level 32.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-bandit/retos-bandit/Bandit Level 27 → Level 28.md",
+                "file": "retos-bandit/retos-bandit/Bandit Level 31 → Level 32.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-bandit/retos-bandit/Bandit Level 27 → Level 28.md"
+                "file": "retos-bandit/retos-bandit/Bandit Level 31 → Level 32.md"
               }
             }
           },
@@ -195,16 +195,25 @@
   },
   "active": "1989835a877d9126",
   "lastOpenFiles": [
-    "retos-bandit/retos-bandit/Bandit Level 26 → Level 27.md",
+    "Virtual box y kali linux/Instalación de VirtualBox y kali linux.docx",
+    "Virtual box y kali linux",
+    "Nueva carpeta",
+    "retos-bandit/retos-bandit/Bandit Level 33 → Level 34.md",
+    "retos-bandit/retos-bandit/plantilla.md",
+    "retos-bandit/Bandit Level 32 → Level 33.md",
+    "retos-bandit/retos-bandit/Bandit Level 31 → Level 32.md",
+    "retos-bandit/retos-bandit/Bandit Level 30 → Level 31.md",
+    "retos-bandit/retos-bandit/Bandit Level 29 → Level 30.md",
+    "retos-bandit/retos-bandit/Bandit Level 28 → Level 29.md",
     "retos-bandit/retos-bandit/Bandit Level 27 → Level 28.md",
+    "retos-bandit/retos-bandit/Level 0.md",
+    "retos-bandit/retos-bandit/Bandit Level 26 → Level 27.md",
     "retos-bandit/retos-bandit/Bandit Level 25 → Level 26.md",
     "retos-bandit/retos-bandit/Bandit Level 24 → Level 25.md",
     "retos-bandit/retos-bandit/Bandit Level 22 → Level 23.md",
     "retos-bandit/retos-bandit/Bandit Level 23 → Level 24.md",
-    "retos-bandit/retos-bandit/plantilla.md",
     "retos-bandit/retos-bandit/Bandit Level 17 → Level 18.md",
     "retos-bandit/retos-bandit/Bandit Level 16 → Level 17.md",
-    "retos-bandit/retos-bandit/Level 0.md",
     "retos-bandit/retos-bandit/Bandit Level 21 → Level 22.md",
     "retos-bandit/retos-bandit/Bandit Level 20 → Level 21.md",
     "retos-bandit/retos-bandit/Bandit Level 13 → Level 14.md",
@@ -214,13 +223,6 @@
     "retos-bandit/retos-bandit/Bandit Level 0 → Level 1.md",
     "retos-bandit/retos-bandit/Bandit Level 19 → Level 20.md",
     "retos-bandit/retos-bandit/Bandit Level 18 → Level 19.md",
-    "retos-bandit/retos-bandit/Bandit Level 15 → Level 16.md",
-    "retos-bandit/retos-bandit/Bandit Level 10 → Level 11.md",
-    "retos-bandit/retos-bandit/Bandit Level 9 → Level 10.md",
-    "retos-bandit/retos-bandit/Bandit Level 8 → Level 9.md",
-    "retos-bandit/retos-bandit/Bandit Level 7 → Level 8.md",
-    "retos-bandit/retos-bandit/Bandit Level 6 → Level 7.md",
-    "README.md",
     "retos-bandit/retos-bandit",
     "retos-bandit",
     "retos-bandit.zip"
