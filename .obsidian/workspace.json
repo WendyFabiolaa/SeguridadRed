@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/5. PW Crack 3.md",
+                "file": "picoCTF/6. Magikarp Ground Mission.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/5. PW Crack 3.md",
+                "file": "picoCTF/6. Magikarp Ground Mission.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/5. PW Crack 3.md",
+                "file": "picoCTF/6. Magikarp Ground Mission.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/5. PW Crack 3.md"
+                "file": "picoCTF/6. Magikarp Ground Mission.md"
               }
             }
           },
@@ -219,32 +219,32 @@
   },
   "active": "5f12c131dce6449c",
   "lastOpenFiles": [
-    "Picoctf.md",
+    "picoCTF/6. runme.py.md",
+    "picoCTF/6. Magikarp Ground Mission.md",
+    "picoCTF/6. fixme1.py.md",
+    "picoCTF/5. Tab, Tab, Attack.md",
     "picoCTF/5. PW Crack 3.md",
-    "picoCTF/Plantilla.md",
-    "picoCTF/4. PW Crack 2.md",
+    "picoCTF/5. First Grep.md",
     "picoCTF/4. Static ain't always noise.md",
+    "picoCTF/4. PW Crack 2.md",
     "picoCTF/3. PW Crack 1.md",
+    "picoCTF/4. convertme.py.md",
+    "picoCTF/3. Codebook.md",
+    "picoCTF/3. Nice netcat....md",
+    "picoCTF/7. strings it.md",
+    "picoCTF/8. plumbing.md",
+    "picoCTF/Plantilla.md",
+    "picoCTF/7. Based.md",
+    "Picoctf.md",
     "picoCTF/2. Glitch Cat.md",
     "picoCTF/1. fixme2.py.md",
     "picoCTF/1. 2Warm.md",
     "picoCTF/8. what s a net cat.md",
-    "picoCTF/7. strings it.md",
-    "picoCTF/6. fixme1.py.md",
-    "picoCTF/5. First Grep.md",
-    "picoCTF/4. convertme.py.md",
-    "picoCTF/3. Codebook.md",
     "picoCTF/2. Bases.md",
     "picoCTF/8. Warmed Up.md",
     "picoCTF/7. Lets Warm Up.md",
-    "picoCTF/6. Magikarp Ground Mission.md",
-    "picoCTF/5. Tab, Tab, Attack.md",
     "picoCTF/1. Obedient Cat.md",
-    "picoCTF/3. Nice netcat....md",
     "picoCTF/2. Wave a flag.md",
-    "retos-bandit/retos-bandit/Level 0.md",
-    "retos-bandit/retos-bandit/Bandit Level 27 → Level 28.md",
-    "retos-bandit/retos-bandit/Bandit Level 28 → Level 29.md",
     "picoCTF",
     "Virtual box y kali linux/Instalación de VirtualBox y kali linux.docx",
     "Virtual box y kali linux",
