@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/6. Magikarp Ground Mission.md",
+                "file": "picoCTF/Client-side-again.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 206.5
+    "width": 200.5
   },
   "right": {
     "id": "2c79b3fbab9eeace",
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/6. Magikarp Ground Mission.md",
+                "file": "picoCTF/Client-side-again.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/6. Magikarp Ground Mission.md",
+                "file": "picoCTF/Client-side-again.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/6. Magikarp Ground Mission.md"
+                "file": "picoCTF/Client-side-again.md"
               }
             }
           },
@@ -219,8 +219,17 @@
   },
   "active": "5f12c131dce6449c",
   "lastOpenFiles": [
-    "picoCTF/6. runme.py.md",
+    "picoCTF/Plantilla.md",
+    "picoCTF/Client-side-again.md",
+    "picoCTF/picobrowser.md",
+    "picoCTF/dont-use-client-side.md",
+    "picoCTF/logon.md",
+    "picoCTF/where are the robots.md",
+    "picoCTF/8. what s a net cat.md",
+    "picoCTF/Insp3ct0r.md",
     "picoCTF/6. Magikarp Ground Mission.md",
+    "Sin título",
+    "picoCTF/6. runme.py.md",
     "picoCTF/6. fixme1.py.md",
     "picoCTF/5. Tab, Tab, Attack.md",
     "picoCTF/5. PW Crack 3.md",
@@ -233,18 +242,10 @@
     "picoCTF/3. Nice netcat....md",
     "picoCTF/7. strings it.md",
     "picoCTF/8. plumbing.md",
-    "picoCTF/Plantilla.md",
     "picoCTF/7. Based.md",
     "Picoctf.md",
     "picoCTF/2. Glitch Cat.md",
     "picoCTF/1. fixme2.py.md",
-    "picoCTF/1. 2Warm.md",
-    "picoCTF/8. what s a net cat.md",
-    "picoCTF/2. Bases.md",
-    "picoCTF/8. Warmed Up.md",
-    "picoCTF/7. Lets Warm Up.md",
-    "picoCTF/1. Obedient Cat.md",
-    "picoCTF/2. Wave a flag.md",
     "picoCTF",
     "Virtual box y kali linux/Instalación de VirtualBox y kali linux.docx",
     "Virtual box y kali linux",
