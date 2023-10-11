@@ -16,3 +16,5 @@ Who doesn't love cookies? Try to figure out the best one. [http://mercury.picoc
 ## Notas adicionales
 Se puede editar la cookie desde la pagina o mediante la terminal.
 Haremos un for del 0 al 20 para que recorra todas las cookie con el grep le pedimos que nos muestre 
+
+## Referencias

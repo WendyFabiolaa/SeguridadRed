@@ -13,5 +13,7 @@ Content-type: text/html; charset=UTF-8
 fabiolagarcia-picoctf@webshell:~$ 
 ```
 
+## Notas adicionales
 la H es de head
+## Referencias
 
