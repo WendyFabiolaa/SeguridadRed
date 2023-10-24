@@ -8,115 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d5658f1c94eb9234",
+            "id": "758be7dea42c7f87",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-bandit/retos-bandit/Level 0.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c597d2b820f8979b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-bandit/retos-bandit/Bandit Level 8 → Level 9.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fb840c1ca5a8ac40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-bandit/retos-bandit/Bandit Level 12 → Level 13.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1989835a877d9126",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-bandit/retos-bandit/Bandit Level 31 → Level 32.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be4f54af8516bfb6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "picoCTF/5. Tab, Tab, Attack.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5f12c131dce6449c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Concurso/Poor security.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7013c0590e4c70f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF parte 3/GET aHEAD.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c00f68a1e451936f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF parte 3/Cookies.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3f432f3075f85dc5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicoCTF parte 3/Cookies.md",
+                "file": "picoCTF forensic 1/Extensions.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF parte 3/Cookies.md",
+                "file": "picoCTF forensic 1/Extensions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF parte 3/Cookies.md",
+                "file": "picoCTF forensic 1/Extensions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF parte 3/Cookies.md"
+                "file": "picoCTF forensic 1/Extensions.md"
               }
             }
           },
@@ -253,43 +156,43 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "f7f42b8fae94e5f6",
+  "active": "758be7dea42c7f87",
   "lastOpenFiles": [
+    "picoCTF forensic 1/Shark on Wire 1.md",
+    "picoCTF forensic 1/So Meta.md",
+    "picoCTF forensic 1/What Lies Within.md",
+    "picoCTF forensic 1/Glory of the Garden.md",
+    "picoCTF forensic 1/Extensions.md",
+    "README.md",
+    "picoCTF forensic 3/MacroHard WeakEdge.md",
+    "picoCTF forensic 3/Matryoshka doll.md",
+    "picoCTF forensic 3/tunn3l v1s10n.md",
+    "picoCTF forensic 3/WebNet1.md",
+    "picoCTF forensic 3/Sin título.md",
+    "picoCTF forensic 3/WebNet0.md",
+    "picoCTF forensic 2/shark on wire 2.md",
+    "picoCTF forensic 2/WhitePages.md",
+    "picoCTF forensic 2/m00nwalk.md",
+    "picoCTF forensic 2/like1000.md",
+    "picoCTF forensic 2/c0rrupt.md",
+    "picoCTF forensic 1",
+    "picoCTF forensic 3",
+    "picoCTF forensic 2",
+    "PicoCTF parte 2/JaWT Scratchpad.md",
+    "picoCTF parte 4",
+    "PicoCTF parte 3/Scavenger Hunt.md",
+    "retos-bandit/retos-bandit/Level 0.md",
     "PicoCTF parte 3/GET aHEAD.md",
     "PicoCTF parte 3/Cookies.md",
-    "PicoCTF parte 3/Scavenger Hunt.md",
     "PicoCTF parte 2/Irish-Name-Repo 1.md",
     "Sin título.md",
     "PicoCTF parte 3",
     "JaWT Scratchpad.md",
     "PicoCTF parte 2",
     "PicoCTF parte 2/Irish-Name-Repo 2.md",
-    "PicoCTF parte 2/Irish-Name-Repo 3.md",
-    "PicoCTF parte 2/JaWT Scratchpad.md",
-    "picoCTF/Plantilla.md",
-    "picoCTF/picobrowser.md",
-    "Concurso/Poor security.md",
-    "Concurso/Discord.md",
-    "picoCTF/6. fixme1.py.md",
     "Concurso",
-    "picoCTF/4. Static ain't always noise.md",
-    "picoCTF/4. convertme.py.md",
-    "picoCTF/3. Codebook.md",
-    "picoCTF/3. PW Crack 1.md",
-    "picoCTF/4. PW Crack 2.md",
-    "picoCTF/6. runme.py.md",
-    "picoCTF/5. PW Crack 3.md",
-    "picoCTF/2. Bases.md",
-    "picoCTF/1. 2Warm.md",
-    "picoCTF/1. Obedient Cat.md",
-    "picoCTF/1. fixme2.py.md",
-    "picoCTF/5. First Grep.md",
     "picoCTF",
     "Virtual box y kali linux/Instalación de VirtualBox y kali linux.docx",
-    "Virtual box y kali linux",
-    "Nueva carpeta",
-    "retos-bandit/retos-bandit",
-    "retos-bandit",
-    "retos-bandit.zip"
+    "Virtual box y kali linux"
   ]
 }

@@ -5,7 +5,7 @@ Check the admin scratchpad! `https://jupiter.challenges.picoctf.org/problem/582
 Abrimos el url
 Nos logueamos con nuestro nombre
 Nos vamos a nuestro cookie editor y tomamos el token que nos genero al loguearnos.
-pegamos ese token en un archivo y lo llamamos hash
+pegamos ese token en un archivo y lo llamamos has+h
 ┌──(kali㉿kali)-[~]
 └─$ nano hash      
                                                                                   
