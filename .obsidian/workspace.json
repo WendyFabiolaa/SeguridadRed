@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF forensic 3/tunn3l v1s10n.md",
+                "file": "PicoCTF crypto 1/waves over lambda.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF forensic 3/tunn3l v1s10n.md",
+                "file": "PicoCTF crypto 1/waves over lambda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF forensic 3/tunn3l v1s10n.md",
+                "file": "PicoCTF crypto 1/waves over lambda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF forensic 3/tunn3l v1s10n.md"
+                "file": "PicoCTF crypto 1/waves over lambda.md"
               }
             }
           },
@@ -156,22 +156,26 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "758be7dea42c7f87",
+  "active": "f7f42b8fae94e5f6",
   "lastOpenFiles": [
+    "PicoCTF crypto 1/The Numbers.md",
+    "PicoCTF crypto 1/Tapping.md",
+    "PicoCTF crypto 1/la cifra de.md",
+    "PicoCTF crypto 1/Easy1.md",
+    "PicoCTF crypto 1/Caesar.md",
+    "PicoCTF crypto 1/13.md",
+    "PicoCTF crypto 1/waves over lambda.md",
+    "picoCTF forensic 3/tunn3l v1s10n.md",
+    "Sin título",
     "picoCTF forensic 3/Matryoshka doll.md",
     "picoCTF forensic 3/MacroHard WeakEdge.md",
     "picoCTF forensic 3/WebNet0.md",
     "picoCTF forensic 3/WebNet1.md",
-    "picoCTF forensic 3/tunn3l v1s10n.md",
     "picoCTF forensic 2/shark on wire 2.md",
     "picoCTF forensic 2/WhitePages.md",
     "picoCTF forensic 2/m00nwalk.md",
     "picoCTF forensic 2/c0rrupt.md",
     "picoCTF forensic 2/like1000.md",
-    "PicoCTF crypto 1/Tapping.md",
-    "PicoCTF crypto 1/The Numbers.md",
-    "PicoCTF crypto 1/Caesar.md",
-    "PicoCTF crypto 1/13.md",
     "PicoCTF crypto 1",
     "picoCTF forensic 1/Extensions.md",
     "picoCTF forensic 1/Shark on Wire 1.md",
@@ -186,13 +190,9 @@
     "PicoCTF parte 2/JaWT Scratchpad.md",
     "picoCTF parte 4",
     "PicoCTF parte 3/Scavenger Hunt.md",
-    "retos-bandit/retos-bandit/Level 0.md",
-    "PicoCTF parte 3/GET aHEAD.md",
-    "PicoCTF parte 3/Cookies.md",
     "PicoCTF parte 3",
     "PicoCTF parte 2",
     "Concurso",
-    "picoCTF",
-    "Virtual box y kali linux/Instalación de VirtualBox y kali linux.docx"
+    "picoCTF"
   ]
 }
