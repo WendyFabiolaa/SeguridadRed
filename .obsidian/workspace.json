@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF crypto 1/waves over lambda.md",
+                "file": "Examen 2 parte 2/7. St3g0.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 204.5
+    "width": 209.5
   },
   "right": {
     "id": "2c79b3fbab9eeace",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicoCTF crypto 1/waves over lambda.md",
+                "file": "Examen 2 parte 2/7. St3g0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicoCTF crypto 1/waves over lambda.md",
+                "file": "Examen 2 parte 2/7. St3g0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicoCTF crypto 1/waves over lambda.md"
+                "file": "Examen 2 parte 2/7. St3g0.md"
               }
             }
           },
@@ -158,41 +158,42 @@
   },
   "active": "758be7dea42c7f87",
   "lastOpenFiles": [
-    "PicoCTF crypto 1/Caesar.md",
-    "PicoCTF crypto 1/la cifra de.md",
-    "PicoCTF crypto 1/waves over lambda.md",
-    "PicoCTF crypto 1/The Numbers.md",
-    "PicoCTF crypto 1/Tapping.md",
-    "PicoCTF crypto 1/Easy1.md",
-    "PicoCTF crypto 1/13.md",
-    "picoCTF forensic 3/tunn3l v1s10n.md",
-    "Sin título",
-    "picoCTF forensic 3/Matryoshka doll.md",
-    "picoCTF forensic 3/MacroHard WeakEdge.md",
-    "picoCTF forensic 3/WebNet0.md",
-    "picoCTF forensic 3/WebNet1.md",
-    "picoCTF forensic 2/shark on wire 2.md",
-    "picoCTF forensic 2/WhitePages.md",
-    "picoCTF forensic 2/m00nwalk.md",
-    "picoCTF forensic 2/c0rrupt.md",
-    "picoCTF forensic 2/like1000.md",
-    "PicoCTF crypto 1",
+    "Examen 2 parte 2/6. Redaction gone wrong.md",
+    "Examen 2 parte 2/5. Packets Primer.md",
+    "Examen 2 parte 2/4. Lookey here.md",
+    "Examen 2 parte 2/3. Enhance!.md",
+    "Examen 2 parte 2/2. Wireshark doo dooo do doo....md",
+    "Examen 2 parte 2/1. information.md",
+    "Examen 2 parte 1/9. SQL Direct.md",
+    "Examen 2 parte 1/8. Secrets.md",
+    "Examen 2 parte 2/7. St3g0.md",
     "picoCTF forensic 1/Extensions.md",
-    "picoCTF forensic 1/Shark on Wire 1.md",
-    "picoCTF forensic 1/So Meta.md",
-    "picoCTF forensic 1/What Lies Within.md",
-    "picoCTF forensic 1/Glory of the Garden.md",
-    "README.md",
-    "picoCTF forensic 3/Sin título.md",
+    "Examen 2 parte 1/7. Roboto Sans.md",
+    "picoCTF/7. Based.md",
+    "picoCTF/6. fixme1.py.md",
+    "picoCTF/1. fixme2.py.md",
+    "Examen 2 parte 1/4. Search source.md",
+    "Examen 2 parte 1/3. Local Authority.md",
+    "Examen 2 parte 1/2. Inspect HTML.md",
+    "Examen 2 parte 1/1. Incluye.md",
+    "Examen 2 parte 2",
+    "picoCTF/4. Static ain't always noise.md",
+    "picoCTF/3. PW Crack 1.md",
+    "picoCTF/2. Bases.md",
+    "picoCTF/2. Wave a flag.md",
+    "picoCTF/3. Codebook.md",
+    "picoCTF/3. Nice netcat....md",
+    "PicoCTF parte 3/GET aHEAD.md",
+    "PicoCTF parte 3/Scavenger Hunt.md",
+    "Pasted image 20231103011402.png",
+    "Examen 2 parte 1",
+    "PicoCTF crypto 1",
     "picoCTF forensic 1",
     "picoCTF forensic 3",
     "picoCTF forensic 2",
-    "PicoCTF parte 2/JaWT Scratchpad.md",
     "picoCTF parte 4",
-    "PicoCTF parte 3/Scavenger Hunt.md",
     "PicoCTF parte 3",
     "PicoCTF parte 2",
-    "Concurso",
-    "picoCTF"
+    "Concurso"
   ]
 }
