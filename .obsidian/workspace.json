@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF crypto 2/b00tl3gRSA2.md",
+                "file": "picoCTF crypto 3/ReadMyCert.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF crypto 2/b00tl3gRSA2.md",
+                "file": "picoCTF crypto 3/ReadMyCert.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF crypto 2/b00tl3gRSA2.md",
+                "file": "picoCTF crypto 3/ReadMyCert.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF crypto 2/b00tl3gRSA2.md"
+                "file": "picoCTF crypto 3/ReadMyCert.md"
               }
             }
           },
@@ -156,11 +156,17 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "f7f42b8fae94e5f6",
+  "active": "758be7dea42c7f87",
   "lastOpenFiles": [
+    "picoCTF crypto 3/HideToSee.md",
+    "picoCTF crypto 3/basic-mod1.md",
+    "picoCTF crypto 3/Pixelated.md",
+    "picoCTF crypto 3/Mind your Ps and Qs.md",
+    "picoCTF crypto 3/ReadMyCert.md",
+    "picoCTF/Plantilla.md",
+    "picoCTF crypto 2/b00tl3gRSA2.md",
     "picoCTF crypto 2/miniRSA.md",
     "picoCTF crypto 2/rsa-pop-quiz.md",
-    "picoCTF crypto 2/b00tl3gRSA2.md",
     "Examen 2 parte 2/7. St3g0.md",
     "picoCTF crypto 2",
     "picoCTF crypto 3",
@@ -180,13 +186,7 @@
     "Examen 2 parte 1/4. Search source.md",
     "Examen 2 parte 1/3. Local Authority.md",
     "Examen 2 parte 1/2. Inspect HTML.md",
-    "Examen 2 parte 1/1. Incluye.md",
     "Examen 2 parte 2",
-    "picoCTF/4. Static ain't always noise.md",
-    "picoCTF/3. PW Crack 1.md",
-    "picoCTF/2. Bases.md",
-    "picoCTF/2. Wave a flag.md",
-    "picoCTF/3. Codebook.md",
     "Pasted image 20231103011402.png",
     "Examen 2 parte 1",
     "PicoCTF crypto 1",
