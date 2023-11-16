@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF reversing/vault-door-1.md",
+                "file": "picoCTF reversing 2/asm2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF reversing/vault-door-1.md",
+                "file": "picoCTF reversing 2/asm2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF reversing/vault-door-1.md",
+                "file": "picoCTF reversing 2/asm2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF reversing/vault-door-1.md"
+                "file": "picoCTF reversing 2/asm2.md"
               }
             }
           },
@@ -158,13 +158,30 @@
   },
   "active": "758be7dea42c7f87",
   "lastOpenFiles": [
-    "picoCTF reversing/vault-door-5.md",
-    "picoCTF reversing/vault-door-4.md",
-    "picoCTF reversing/vault-door-3.md",
-    "picoCTF reversing/vault-door-1.md",
-    "picoCTF reversing/vault-door-training.md",
+    "picoCTF reversing 2/asm1.md",
+    "picoCTF reversing 2/asm2.md",
+    "Examen 3 parte 1/Mr-Worldwide.md",
+    "Examen 3 parte 2/Sin título.md",
+    "Examen 3 parte 1/Sin título.md",
+    "Examen 3 parte 1/Flags.md",
+    "Examen 3 parte 1/Vigenere.md",
+    "Examen 3 parte 1/transposition-trial.md",
+    "picoCTF reversing 3/GDB Test Drive.md",
+    "Examen 3 parte 2",
+    "Examen 3 parte 1",
+    "picoCTF reversing 3/Safe Opener 2.md",
+    "picoCTF reversing 3/reverse_cipher.md",
+    "picoCTF reversing 2/asm3.md",
+    "picoCTF reversing 2",
+    "picoCTF reversing 3/Need For Speed.md",
+    "picoCTF reversing 1/vault-door-1.md",
+    "picoCTF reversing 3",
+    "picoCTF reversing 1/vault-door-5.md",
+    "picoCTF reversing 1/vault-door-4.md",
+    "picoCTF reversing 1/vault-door-3.md",
+    "picoCTF reversing 1/vault-door-training.md",
     "picoCTF crypto 3/Mind your Ps and Qs.md",
-    "picoCTF reversing",
+    "picoCTF reversing 1",
     "picoCTF crypto 3/HideToSee.md",
     "picoCTF crypto 3/basic-mod1.md",
     "picoCTF crypto 3/ReadMyCert.md",
@@ -172,28 +189,11 @@
     "picoCTF/Plantilla.md",
     "picoCTF crypto 2/b00tl3gRSA2.md",
     "picoCTF crypto 2/miniRSA.md",
-    "picoCTF crypto 2/rsa-pop-quiz.md",
-    "Examen 2 parte 2/7. St3g0.md",
     "picoCTF crypto 2",
     "picoCTF crypto 3",
-    "Examen 2 parte 2/6. Redaction gone wrong.md",
-    "Examen 2 parte 2/5. Packets Primer.md",
-    "Examen 2 parte 2/4. Lookey here.md",
-    "Examen 2 parte 2/3. Enhance!.md",
-    "Examen 2 parte 2/2. Wireshark doo dooo do doo....md",
-    "Examen 2 parte 2/1. information.md",
-    "Examen 2 parte 1/9. SQL Direct.md",
-    "Examen 2 parte 1/8. Secrets.md",
-    "picoCTF forensic 1/Extensions.md",
-    "Examen 2 parte 1/7. Roboto Sans.md",
-    "picoCTF/7. Based.md",
     "Examen 2 parte 2",
     "Pasted image 20231103011402.png",
     "Examen 2 parte 1",
-    "PicoCTF crypto 1",
-    "picoCTF forensic 1",
-    "picoCTF forensic 3",
-    "picoCTF forensic 2",
-    "picoCTF parte 4"
+    "PicoCTF crypto 1"
   ]
 }
