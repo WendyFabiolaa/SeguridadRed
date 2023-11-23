@@ -8,7 +8,10 @@ Can you get the flag?Download this [binary](https://artifacts.picoctf.net/c/85/
 - `(gdb) run`
 - `(gdb) jump *(main+104)`
 ## Solución
-
+```
+Ejecute los todos los comandos que venian en las instrucciones y me dio la bandera:
+picoCTF{d3bugg3r_dr1v3_197c378a}
+```
 ## Notas adicionales
 
 ## Referencias
