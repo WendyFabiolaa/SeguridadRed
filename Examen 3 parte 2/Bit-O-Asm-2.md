@@ -15,6 +15,7 @@ Descargamos el archivo y lo abrimos para ver su contenido:
 <+25>:    pop    rbp
 <+26>:    ret
 
+En la cosola abrimos un interprete de python
 
 Python 3.11.4 (main, Jun  7 2023, 10:13:09) [GCC 12.2.0] on linux
 Type "help", "copyright", "credits" or "license" for more information.
